@@ -1,0 +1,154 @@
+body {
+    /* color: #666666; */
+    background-color: rgb(161, 232, 183);
+    /* background-image: url("https://www.iconspng.com/images/torn-heart-no-background/torn-heart-no-background.jpg"); */
+    background-position: center;
+    margin: 0px auto;
+    font-family: Georgia, Times, serif;
+}
+
+.wrapper {
+    width: 940px;
+    margin: 20px auto 20px auto;
+    border: 2px  #000000;
+    border-style: double;
+}
+article {
+    clear: both;
+    overflow: auto;
+    width: 100%;}
+hgroup {
+    margin-top: 40px;}
+
+aside {
+    width: 230px;
+    float: left;
+    padding: 0px 0px 0px 20px;
+}
+a {
+    color: #de6581;
+    text-decoration: none;
+}
+
+section.game 
+    {
+    float: left;
+    width: 659px;
+     border-right: 5px solid black;
+    height: 500px;
+    }
+
+    h1,h2,h3 {
+        text-align: center;
+        margin: 10px 0px 5px 0px;
+        padding: 0px;
+        
+    }
+#display{
+    margin: 30px;
+    padding: 10px;
+    background-color: #de6581;
+    width: 150px;
+    height: 40px;
+    text-align: center;
+    color: purple;
+    background-position: center;
+    position: fixed;
+    left: 480px;
+    top: 150px;
+   } 
+#displayrandom{
+    margin: 30px;
+    padding: 10px;
+    background-color: yellow;
+    width: 150px;
+    height: 40px;
+    text-align: center;
+    color: purple;
+    background-position: center;
+    position: fixed;
+    left: 280px;
+    top: 150px;
+   }    
+
+#result{
+    margin: 30px;
+    padding: 10px;
+    background-color:rgb(88, 135, 176);
+    width: 150px;
+    height: 30px;
+    text-align: center;
+    color: purple;
+    /* background-position: center; */
+    position: fixed;
+    left: 370px;
+    top: 250px;
+   }   
+   p{
+    margin: 30px;
+    padding: 10px;
+    background-color:pink;
+    width: 35%;
+    height: 20%;
+    text-align: center;
+    color: purple;
+    /* background-position: center; */
+    position: fixed;
+    left: 220px;
+    top: 350px;
+   }              
+#buttons
+{
+   text-align: center;
+}
+.button-color {
+    background-color:  blanchedalmond;
+    width: 80px;
+    height: 80px;
+    
+   
+  }
+  input{
+    width: 15%;
+    height: 30%;
+    font-size: 20px;
+    text-align: center;
+    position: fixed;
+    left: 940px;
+    top: 350px;
+}
+.picture{
+    background-image: url("/Users/susie/unit-4-game/assets/images/green.png ");
+    background-position: center;
+    background-size: 80px;
+    background-repeat: no-repeat;
+    /* width: 80px;
+    height: 80px; */
+}
+
+
+
+.picture2{
+    background-image: url("/Users/susie/unit-4-game/assets/images/pink.png ");
+    background-position: center;
+    background-size: 80px;
+    background-repeat: no-repeat;
+    /* width: 80px;
+    height: 80px; */
+}
+.picture3{
+    background-image: url("/Users/susie/unit-4-game/assets/images/blue.png ");
+    background-position: center;
+    background-size: 80px;
+    background-repeat: no-repeat;
+    /* width: 80px;
+    height: 80px; */
+}
+.picture4{
+    background-image: url("/Users/susie/unit-4-game/assets/images/red.png ");
+    background-position: center;
+    background-size: 80px;
+    background-repeat: no-repeat;
+    /* width: 80px;
+    height: 80px; */
+}
