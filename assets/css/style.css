@@ -118,7 +118,7 @@ section.game
     top: 350px;
 }
 .picture{
-    background-image: url("/Users/susie/unit-4-game/assets/images/green.png ");
+    background-image: url("https://susieo.github.io/unit-4-game/assets/images/green.png ");
     background-position: center;
     background-size: 80px;
     background-repeat: no-repeat;
@@ -129,7 +129,7 @@ section.game
 
 
 .picture2{
-    background-image: url("/Users/susie/unit-4-game/assets/images/pink.png ");
+    background-image: url("https://susieo.github.io/unit-4-game/assets/images/pink.png ");
     background-position: center;
     background-size: 80px;
     background-repeat: no-repeat;
@@ -137,7 +137,7 @@ section.game
     height: 80px; */
 }
 .picture3{
-    background-image: url("/Users/susie/unit-4-game/assets/images/blue.png ");
+    background-image: url("https://susieo.github.io/unit-4-game/assets/images/blue.png ");
     background-position: center;
     background-size: 80px;
     background-repeat: no-repeat;
@@ -145,7 +145,7 @@ section.game
     height: 80px; */
 }
 .picture4{
-    background-image: url("/Users/susie/unit-4-game/assets/images/red.png ");
+    background-image: url("https://susieo.github.io/unit-4-game/assets/images/red.png ");
     background-position: center;
     background-size: 80px;
     background-repeat: no-repeat;
